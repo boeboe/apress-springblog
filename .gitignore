@@ -1,3 +1,10 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+.mtj.tmp/
+
 # Eclipse
 .classpath
 .project
@@ -14,4 +21,7 @@
 # Maven
 log/
 target/
+
+# Virtual Machine crash logs
+hs_err_pid*
 
